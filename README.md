@@ -69,12 +69,12 @@ Flash this Arduino code to your ESP32:
 └── README.md                 # This file
 
 ## 🧠 Future Ideas
--👋 Implement hand-tracking module using Mediapipe
--🗣️ Add voice command integration
--🖐️ Integrate Leap Motion or gesture sensors
--🤖 Upgrade to 6-DOF arm model
--🎮 Add joystick/gamepad support
--🌐 Web-based remote control
+- 👋 Implement hand-tracking module using Mediapipe
+- 🗣️ Add voice command integration
+- 🖐️ Integrate Leap Motion or gesture sensors
+- 🤖 Upgrade to 6-DOF arm model
+- 🎮 Add joystick/gamepad support
+- 🌐 Web-based remote control
 
 ## 🤝 Contribution
 Contributions, issues, and feature requests are welcome!
