@@ -3,7 +3,6 @@
 A Python-based simulation and control interface for a robotic arm using multiple input modalities—including GUI interaction and (planned) real-time hand motion tracking. Designed to simulate and prototype intelligent robotic arm control for embedded or software-based applications.
 
 ## 📸 Demo
-
 ---
 
 ## 🧠 Project Description
