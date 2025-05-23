@@ -5,9 +5,9 @@ String inputString = "";
 
 void setup() {
   Serial.begin(115200);
-  servo1.attach(32);   // Replace with your actual pins
-  servo2.attach(34);
-  servo3.attach(35);
+  servo1.attach(13);   // Replace with your actual pins
+  servo2.attach(12);
+  servo3.attach(14);
 }
 
 void loop() {
