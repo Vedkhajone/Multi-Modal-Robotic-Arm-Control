@@ -61,12 +61,12 @@ Flash this Arduino code to your ESP32:
 ## 📂 Project Structure
 
 📁 Multi-Modal-Robotic-Arm-Control/
-- ├── robotic_arm.py            # Core arm logic (IK, kinematics)
-- ├── main_ik_gui.py            # Main GUI for arm simulation
-- ├── hand_control.py           # (Planned) Hand-tracking input
-- ├── esp32_arduino_code.ino    # Servo control for ESP32
-- ├── requirements.txt          # Python dependencies
-- └── README.md                 # This file
+- ├── robotic_arm.py                 `# Core arm logic (IK, kinematics)`
+- ├── main_ik_gui.py                 `# Main GUI for arm simulation`
+- ├── hand_control.py                `# (Planned) Hand-tracking input`
+- ├── esp32_arduino_code.ino         `# Servo control for ESP32`
+- ├── requirements.txt               `# Python dependencies`
+- └── README.md                      `# This file`
 
 ## 🧠 Future Ideas
 - 👋 Implement hand-tracking module using Mediapipe
